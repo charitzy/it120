@@ -7,7 +7,7 @@ int main()
     int remainder;
 
     // Taking input for the two numbers
-    printf("Enter the first number: ");
+    printf("Enter the first numbers: ");
     scanf("%lf", &a);
     printf("Enter the second number: ");
     scanf("%lf", &b);

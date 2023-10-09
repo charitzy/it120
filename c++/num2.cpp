@@ -32,7 +32,7 @@ int main()
     std::cout << "Product: " << product << std::endl;
     std::cout << "Difference: " << difference << std::endl;
     std::cout << "Quotient: " << quotient << std::endl;
-    std::cout << "Remainder: " << remainder << std::endl;
+    std::cout << "Remainders: " << remainder << std::endl;
 
     return 0;
 }

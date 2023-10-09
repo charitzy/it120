@@ -9,7 +9,7 @@ if (isset($_POST['submit'])) {
     $difference = $a - $b;
 
     echo "Sum: " . $sum . "<br>";
-    echo "Product: " . $product . "<br>";
+    echo "Products: " . $product . "<br>";
     echo "Difference: " . $difference . "<br>";
 
     if ($b != 0) {

@@ -12,7 +12,7 @@ def main():
     print(f"You are {age} years old.")
     
     if can_vote(age):
-        print("You are qualified to vote in national or local elections.")
+        print("You are qualified to vote in national or local election.")
     else:
         print("You are not qualified to vote in national or local elections.")
 
